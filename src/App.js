@@ -1,4 +1,4 @@
-import RegisterPage from "./components/RegisterPage";
+import GameContainer from "./components/GameContainer";
 
-const App = () => <RegisterPage />;
+const App = () => <GameContainer />;
 export default App;
